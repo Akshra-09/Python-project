@@ -34,15 +34,15 @@ I built Jarvis to apply my Python programming knowledge to a practical project a
 
 ```text
 User speaks
-     â†“
+     †
 Microphone captures voice
-     â†“
+     †
 SpeechRecognition processes the command
-     â†“
+     †
 Jarvis identifies the requested task
-     â†“
+     †
 Corresponding Python function is executed
-     â†“
+     †
 Jarvis responds using text-to-speech
 ```
 
