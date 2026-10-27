@@ -1,36 +1,36 @@
-﻿# ðŸ¤– Jarvis â€” Python Voice Assistant
+﻿#  Jarvis - Python Voice Assistant
 
-## ðŸ“Œ About the Project
+##  About the Project
 
 Jarvis is a Python-based personal voice assistant developed to automate common computer tasks using voice commands.
 
 The project combines speech recognition, text-to-speech, browser automation and API-based information retrieval to create an interactive assistant.
 
-## ðŸŽ¯ Motivation
+## Motivation
 
 I built Jarvis to apply my Python programming knowledge to a practical project and understand how multiple Python libraries and APIs can be integrated into a single application.
 
-## âœ¨ Features
+##  Features
 
-- ðŸŽ¤ Voice command input
-- ðŸ”Š Text-to-speech responses
-- ðŸŒ Opens websites using voice commands
-- ðŸŽµ Plays music based on user commands
-- ðŸ“° Retrieves news through an API
-- âš™ï¸ Performs automated computer tasks
-- ðŸ› ï¸ Handles user commands using Python logic
+-  Voice command input
+-  Text-to-speech responses
+- Opens websites using voice commands
+- Plays music based on user commands
+-  Retrieves news through an API
+-  Performs automated computer tasks
+-  Handles user commands using Python logic
 
-## ðŸ§° Technologies Used
+##  Technologies Used
 
 - **Python**
-- **SpeechRecognition** â€” speech-to-text
-- **PyAudio** â€” microphone/audio input
-- **pyttsx3** â€” text-to-speech
-- **Webbrowser** â€” browser automation
-- **News API** â€” news retrieval
+- **SpeechRecognition** ” speech-to-text
+- **PyAudio** ” microphone/audio input
+- **pyttsx3** ” text-to-speech
+- **Webbrowser** ” browser automation
+- **News API** ” news retrieval
 - Python modules and functions for organizing the application
 
-## âš™ï¸ How It Works
+##  How It Works
 
 ```text
 User speaks
@@ -46,7 +46,7 @@ Corresponding Python function is executed
 Jarvis responds using text-to-speech
 ```
 
-## ðŸš€ How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
@@ -96,7 +96,7 @@ Do **not** upload the `.env` file to GitHub.
 python main.py
 ```
 
-## ðŸ“š What I Learned
+## What I Learned
 
 Through this project, I learned how to:
 
@@ -108,7 +108,7 @@ Through this project, I learned how to:
 - Organize Python code into modules
 - Build a practical application rather than isolated coding exercises
 
-## ðŸ”§ Future Improvements
+##  Future Improvements
 
 Possible future improvements include:
 
@@ -120,7 +120,7 @@ Possible future improvements include:
 - Integration with an AI/LLM system
 - Support for a wider range of tasks
 
-## ðŸ‘©â€ðŸ’» Author
+## » Author
 
 **Akshra Jain**
 
